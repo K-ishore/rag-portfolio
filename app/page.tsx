@@ -40,7 +40,7 @@ const EXPERIENCE = [
     company: "Zoho",
     period: "Jul 2023 – Present",
     location: "Chennai, Tamil Nadu, India",
-    desc: "Supports RPOS7 / RetailEasy — GoFrugal's retail POS product (a Zoho company) — resolving live customer issues over Zoho SalesIQ. That front-line view of real user pain became the foundation for the AI tools he now builds, and the reason he's moving into Applied AI Engineering.",
+    desc: "Supports RPOS7 / RetailEasy — GoFrugal's retail POS product (a Zoho company) — resolving live customer issues over Zoho SalesIQ. That front-line view of real user pain became the foundation for the production AI tools he now builds for his team.",
     current: true,
   },
   {
@@ -249,8 +249,8 @@ export default function Home() {
       <Section id="contact" eyebrow="Say hi" title="Contact">
         <div className="rounded-2xl border border-border bg-surface/60 p-8 max-w-2xl">
           <p className="text-muted mb-6">
-            Open to conversations about Applied AI Engineering, RAG systems, and
-            support-to-engineering transitions.
+            Happy to talk about Applied AI, RAG systems, and building practical AI
+            on real data.
           </p>
           <div className="flex flex-wrap gap-3">
             <a

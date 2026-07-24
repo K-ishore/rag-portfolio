@@ -13,7 +13,7 @@ const SUGGESTIONS = [
   "What is the POS Expert Assistant?",
   "What are Kishore's AI skills?",
   "How does his RAG pipeline work?",
-  "Why is he moving into Applied AI?",
+  "What kind of AI does he build?",
 ];
 
 export default function ChatWidget() {

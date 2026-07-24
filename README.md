@@ -36,3 +36,5 @@ Push to GitHub, import into Vercel, and set `GEMINI_API_KEY` as an environment v
 ## Stack
 
 Next.js (App Router) · TypeScript · Tailwind v4 · Google Gemini (embeddings + generation).
+
+Built by Kishore S — Product Support Engineer at Zoho who builds production AI systems.

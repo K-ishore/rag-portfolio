@@ -23,7 +23,7 @@ export const OWNER = {
   linkedin: "https://www.linkedin.com/in/kishore-kumar-s-219ba61bb",
   github: "https://github.com/K-ishore",
   tagline:
-    "A Zoho support engineer who builds production AI systems on real customer data — and is working toward an Applied AI Engineering role.",
+    "A Zoho support engineer who builds production AI systems — hybrid RAG, vector search, and LLM evaluation — on real customer data.",
 };
 
 export const KNOWLEDGE: Chunk[] = [
@@ -32,7 +32,7 @@ export const KNOWLEDGE: Chunk[] = [
     category: "About",
     title: "Who Kishore is",
     content:
-      "Kishore S is a Product Support Engineer at GoFrugal Technologies, a Zoho company. He supports RPOS7 (RetailEasy), GoFrugal's point-of-sale product, handling live customer issues over Zoho SalesIQ chat. He is self-taught in software and moving into Applied AI Engineering — he learned to build by shipping, not through formal CS training.",
+      "Kishore S is a Product Support Engineer at GoFrugal Technologies, a Zoho company. He supports RPOS7 (RetailEasy), GoFrugal's point-of-sale product, handling live customer issues over Zoho SalesIQ chat. He is self-taught in software and builds production AI systems — he learned to build by shipping, not through formal CS training.",
   },
   {
     id: "bio-2",
@@ -109,7 +109,7 @@ export const KNOWLEDGE: Chunk[] = [
     category: "Skills",
     title: "Areas he is actively strengthening",
     content:
-      "Kishore is honest about his growth areas as a self-taught engineer: deepening SQL (joins, subqueries, indexing beyond basic CRUD), formal API design, and computer-science fundamentals like data structures and system design. He is deliberately closing these gaps as part of his move into an Applied AI Engineer role.",
+      "Kishore is honest about his growth areas as a self-taught engineer: deepening SQL (joins, subqueries, indexing beyond basic CRUD), formal API design, and computer-science fundamentals like data structures and system design. He is deliberately closing these gaps to keep growing as an engineer.",
   },
   {
     id: "exp-current",
@@ -127,16 +127,16 @@ export const KNOWLEDGE: Chunk[] = [
   },
   {
     id: "career-goal",
-    category: "Career",
-    title: "Career direction",
+    category: "Focus",
+    title: "Applied AI focus",
     content:
-      "Kishore is transitioning from Product Support to an Applied AI Engineer role, aiming to make the move within Zoho by January 2027. He chose Applied AI over other tracks because he has already built a production RAG system, done vector search, integrated internal LLMs, and run rigorous AI evaluations — he wants to do that full time. He is looking for roles focused on deploying and integrating AI on real data rather than heavy algorithms work.",
+      "Kishore's engineering focus is Applied AI — the practical side of the field: deploying AI systems, vector search, embeddings, and rigorous LLM evaluation, and making models work reliably on real company data. He emphasizes data security and cost efficiency (like running entirely on Zoho's internal infrastructure at zero external API spend) over purely theoretical algorithm work. He's driven by shipping AI that solves real problems for real users.",
   },
   {
     id: "contact",
     category: "Contact",
     title: "How to reach Kishore",
     content:
-      "You can reach Kishore by email at kishore.kumars@zohocorp.com, on LinkedIn at https://www.linkedin.com/in/kishore-kumar-s-219ba61bb, or on GitHub at https://github.com/K-ishore. He is open to conversations about Applied AI Engineering roles, RAG systems, and support-to-engineering transitions.",
+      "You can reach Kishore by email at kishore.kumars@zohocorp.com, on LinkedIn at https://www.linkedin.com/in/kishore-kumar-s-219ba61bb, or on GitHub at https://github.com/K-ishore. He's happy to talk about Applied AI, RAG systems, and building practical AI on real data.",
   },
 ];

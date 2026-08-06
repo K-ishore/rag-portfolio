@@ -63,7 +63,7 @@ const EXPERIENCE = [
 
 const SKILLS = [
   { group: "AI / ML", items: ["RAG pipelines", "Hybrid search (BM25 + vector)", "RRF fusion", "Embeddings", "LLM evaluation", "Prompt engineering"] },
-  { group: "Engineering", items: ["Python", "JavaScript", "Chrome extensions", "Serverless (Catalyst)", "REST API integration", "Deluge"] },
+  { group: "Engineering", items: ["Python", "Chrome extensions", "Serverless (Catalyst)", "REST API integration", "Deluge"] },
   { group: "Platform", items: ["Zoho SalesIQ", "Zoho Desk", "Zoho PlatformAI", "Vector search", "Latency & cost analysis"] },
 ];
 

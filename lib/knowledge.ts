@@ -19,7 +19,7 @@ export const OWNER = {
   role: "Product Support Engineer @ Zoho",
   company: "GoFrugal Technologies (a Zoho company)",
   location: "Chennai, Tamil Nadu, India",
-  email: "kishore.kumars@zohocorp.com",
+  email: "kishorekk1505@gmail.com",
   linkedin: "https://www.linkedin.com/in/kishore-kumar-s-219ba61bb",
   github: "https://github.com/K-ishore",
   tagline:
@@ -102,7 +102,7 @@ export const KNOWLEDGE: Chunk[] = [
     category: "Skills",
     title: "Software & platform skills",
     content:
-      "Engineering skills: Python (backend and data pipelines), JavaScript (Chrome extension development), serverless deployment on Zoho Catalyst, and API integration across Zoho Desk, Zoho SalesIQ, and Zoho PlatformAI. He works comfortably with Deluge for Zoho platform scripting and has built production widgets for SalesIQ.",
+      "Engineering skills: Python (backend and data pipelines), serverless deployment on Zoho Catalyst, and API integration across Zoho Desk, Zoho SalesIQ, and Zoho PlatformAI. He works comfortably with Deluge for Zoho platform scripting and has built production widgets for SalesIQ.",
   },
   {
     id: "skills-growing",
@@ -137,6 +137,6 @@ export const KNOWLEDGE: Chunk[] = [
     category: "Contact",
     title: "How to reach Kishore",
     content:
-      "You can reach Kishore by email at kishore.kumars@zohocorp.com, on LinkedIn at https://www.linkedin.com/in/kishore-kumar-s-219ba61bb, or on GitHub at https://github.com/K-ishore. He's happy to talk about Applied AI, RAG systems, and building practical AI on real data.",
+      "You can reach Kishore by email at kishorekk1505@gmail.com, on LinkedIn at https://www.linkedin.com/in/kishore-kumar-s-219ba61bb, or on GitHub at https://github.com/K-ishore. He's happy to talk about Applied AI, RAG systems, and building practical AI on real data.",
   },
 ];
